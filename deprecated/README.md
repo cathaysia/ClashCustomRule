@@ -14,7 +14,7 @@
 ### 方案一：
 
 1. 直接复制[配置总规则](#配置总规则)从`[custom]`开始到方框末尾也就是`luck`的位置
-2. 打开 https://sub.v1.mk/ 
+2. 打开 https://sub.v1.mk/
 3. 在第一个框填入你机场的订阅连接
 4. 点击底部`[上传自定义配置]`，将第一步复制的内容粘贴进去
 5. 其他不用动，点击生成订阅链接
@@ -59,15 +59,15 @@
 
 ;设置规则标志位
 ;有个小技巧，下列不同列表可能会有重复规则，可以将想要命中的规则尽量提前
-ruleset=🚀 节点选择,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/proxies.list
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/direct.list
+ruleset=🚀 节点选择,https://raw.githubusercontent.com/cathaysia/ClashCustomRule/master/proxies.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/cathaysia/ClashCustomRule/master/direct.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 ruleset=🍃 应用净化,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
 ruleset=🆎 AdBlock,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyList.list
 ruleset=🆎 AdBlock,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyListChina.list
-ruleset=🆎 AdBlock,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/ad.list
+ruleset=🆎 AdBlock,https://raw.githubusercontent.com/cathaysia/ClashCustomRule/master/ad.list
 ruleset=🛡️ 隐私防护,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list
 ruleset=📢 谷歌FCM,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
@@ -78,27 +78,27 @@ ruleset=📲 Telegram,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/C
 ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.list
 ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list
 ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
-ruleset=🎮 Nintendo,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/Nintendo.list
-ruleset=🤖 OpenAI,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/openai.list
-ruleset=🤖 DeepL,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/deepl.list
+ruleset=🎮 Nintendo,https://raw.githubusercontent.com/cathaysia/ClashCustomRule/master/Nintendo.list
+ruleset=🤖 OpenAI,https://raw.githubusercontent.com/cathaysia/ClashCustomRule/master/openai.list
+ruleset=🤖 DeepL,https://raw.githubusercontent.com/cathaysia/ClashCustomRule/master/deepl.list
 ruleset=🎵 TikTok,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TikTok.list
 ruleset=📹 YouTube,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 ruleset=🎥 Netflix,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
 ruleset=🎥 Netflix,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NetflixIP.list
 ruleset=🎥 Disney+,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/DisneyPlus.list
 ruleset=📽️ PrimeVideo,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AmazonPrimeVideo/AmazonPrimeVideo.yaml
-ruleset=🌪 Gitlab,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/Gitlab.list
-ruleset=🎼 Spotify,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/spotify.list
-ruleset=🍑 DMMCOJP,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/dmmjp.list
+ruleset=🌪 Gitlab,https://raw.githubusercontent.com/cathaysia/ClashCustomRule/master/Gitlab.list
+ruleset=🎼 Spotify,https://raw.githubusercontent.com/cathaysia/ClashCustomRule/master/spotify.list
+ruleset=🍑 DMMCOJP,https://raw.githubusercontent.com/cathaysia/ClashCustomRule/master/dmmjp.list
 ruleset=📺 巴哈姆特,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bahamut.list
 ruleset=📺 Bilibili,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list
 ruleset=📺 Bilibili,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/BilibiliHMT.list
 ruleset=🌏 国内媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
-ruleset=🌍 国外媒体,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/ProxyMedia.list
-ruleset=📰 微博,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/weibo.list
-ruleset=💬 微信,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/wechat.list
-ruleset=🍠 小红书,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/XiaoHongShu.list
-ruleset=🕺 字节跳动,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/ByteDance.list
+ruleset=🌍 国外媒体,https://raw.githubusercontent.com/cathaysia/ClashCustomRule/master/ProxyMedia.list
+ruleset=📰 微博,https://raw.githubusercontent.com/cathaysia/ClashCustomRule/master/weibo.list
+ruleset=💬 微信,https://raw.githubusercontent.com/cathaysia/ClashCustomRule/master/wechat.list
+ruleset=🍠 小红书,https://raw.githubusercontent.com/cathaysia/ClashCustomRule/master/XiaoHongShu.list
+ruleset=🕺 字节跳动,https://raw.githubusercontent.com/cathaysia/ClashCustomRule/master/ByteDance.list
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
@@ -213,20 +213,20 @@ exclude_remarks=(IPV6|重置|流量|用户|本站|漏洞|永久虚通路|车|邀
     ruleset=🍎 苹果服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list
     # 表示引用 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list 规则
     # 且将此规则指向 [proxy_group] 所设置 🍎 苹果服务 策略组
-    
+
     ruleset=Domestic Services,clash-domain:https://ruleset.dev/clash_domestic_services_domains,86400
     # 表示引用clash-domain类型的 https://ruleset.dev/clash_domestic_services_domains 规则
     # 规则更新间隔为86400秒
     # 且将此规则指向 [proxy_group] 所设置 Domestic Services 策略组
-    
+
     ruleset=🎯 全球直连,rules/NobyDa/Surge/Download.list
     # 表示引用本地 rules/NobyDa/Surge/Download.list 规则
     # 且将此规则指向 [proxy_group] 所设置 🎯 全球直连 策略组
-    
+
     ruleset=🎯 全球直连,[]GEOIP,CN
     # 表示引用 GEOIP 中关于中国的所有 IP
     # 且将此规则指向 [proxy_group] 所设置 🎯 全球直连 策略组
-    
+
     ruleset=!!import:snippets/rulesets.txt
     # 表示引用本地的snippets/rulesets.txt规则
     ```
